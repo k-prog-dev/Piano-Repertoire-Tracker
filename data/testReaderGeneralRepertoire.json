@@ -1,0 +1,24 @@
+{
+    "repertoire": [
+        {
+            "name": "clair de lune",
+            "composer": "Debussy",
+            "genre": "classical",
+            "numPages": 5,
+            "status": "LEARNING",
+            "rating": 0,
+            "practice streak": 100,
+            "total hours practiced": 85
+        },
+        {
+            "name": "andaluza",
+            "composer": "Granados",
+            "genre": "classical",
+            "numPages": 6,
+            "status": "MASTERED",
+            "rating": 4,
+            "practice streak": 0,
+            "total hours practiced": 0
+        }
+    ]
+}

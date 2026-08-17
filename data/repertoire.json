@@ -1,0 +1,42 @@
+{"repertoire": [
+    {
+        "numPages": 5,
+        "composer": "Debussy",
+        "practice streak": 2,
+        "name": "Clair de Lune",
+        "genre": "Classical",
+        "rating": 0,
+        "total hours practiced": 100,
+        "status": "LEARNING"
+    },
+    {
+        "numPages": 5,
+        "composer": "Bach",
+        "practice streak": 1,
+        "name": "Prelude",
+        "genre": "Baroque",
+        "rating": 0,
+        "total hours practiced": 0,
+        "status": "LEARNING"
+    },
+    {
+        "numPages": 6,
+        "composer": "Granados",
+        "practice streak": 0,
+        "name": "Andaluza",
+        "genre": "20th Century",
+        "rating": 2,
+        "total hours practiced": 0,
+        "status": "MASTERED"
+    },
+    {
+        "numPages": 5,
+        "composer": "Chopin",
+        "practice streak": 0,
+        "name": "Nocturne in C# Minor",
+        "genre": "Romantic",
+        "rating": 5,
+        "total hours practiced": 0,
+        "status": "MASTERED"
+    }
+]}
